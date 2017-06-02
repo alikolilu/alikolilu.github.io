@@ -8,8 +8,9 @@
 body {
 	font-family: 'Poiret One', cursive;;
 	font-weight: 400;
-max-width: 95%;
-	 background: #293f50;
+     max-width: 95%;
+	/* background: #293f50; */
+	 background-image: url('../img/bg2.jpg');
 }
 
 img {
@@ -113,12 +114,6 @@ width: 70%;
 	margin: 0 auto;
 	max-width: 65rem;
 	margin-top: 4rem;
-}
-
-.footer_copyright {
-	margin-top: 3rem;
-	color: white;
-	text-align: center;
 }
 
 .main_content {
