@@ -20,7 +20,7 @@
     <script type="text/javascript" src="js/main.js"></script>
     
      <link href="https://fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic" rel="stylesheet">
-
+<!--
 <script language="javascript">
 startdate = new Date();
 clockStart = startdate.getTime();
@@ -38,54 +38,106 @@ function getSecs() {
   setTimeout('getSecs()', 1000); 
 }
 </script>
-
+-->
 
 </head>
-<body onLoad="getSecs()">
+<body  onLoad="getSecs()" id="body">
+
 		<div class="header">
+
 			<div class="header_name">Mr.White</div>
+
 			<div class="header_logo"><img src="img/logo.png" alt="logo"></div>
+
 		</div>
 
 
 							<!-- любая реклама -->
 		<div id="wrapper-fluid" class="main_content"> 
-          <div class="row">
-          	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          		<img src="img/img1.jpg">
-          	</div>
-          	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          		<img src="img/img2.jpg">
-          	</div>
-          	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          		<img src="img/img3.jpg">
-          	</div>
-          </div>
+        
 
-		<div class="main row">
+		<div class="main">
+
+
+
+
 
 		</div>
 
         <div class="footer">
+        <!-- 
         <div class="timer"><h1>
  					<span id='timer-counter' class="col-lg-12"></span>
  					</h1></div>
-          
+          -->          
 
           <div class="row text-center footer_buttons">
+
             <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
             </div>
+
           	<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
           		<a href="#" class="footer_button btn ">Интернет</a>
           	</div>
+
           	<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
-          		 <a href="#" class="btn ">Тип устройства</a>
           	</div>
           	 <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
             </div>
           </div>
-	      		<h3 class="footer_copyright">&copy; SmartFi</h3>
 
 		</div>
 	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="main"><div id="rightSide"><div class="top"><div class="bottom">
+
+        <div class="header"><h1 id="waiting"></h1>
+        </div>
+               <div class="content">
+               <div class="txt9">
+                     lol <br><br/>
+  ТЕКСТ ПОД ЗАДЕРЖКОЙ ИЛИ ССЫЛКА<br/><br/>
+  ТЕКСТ ПОД ЗАДЕРЖКОЙ ИЛИ ССЫЛКА<br/><br/>
+  ТЕКСТ ИЛИ ССЫЛКА</div></div>
+
+</div></div></div></div>
+
+<script>
+function fnHide(secs){
+    secs--;
+    if(secs>0)  {
+        document.getElementById("waiting").innerHTML = 'Зачекайте '+secs+' секунд для доступу в Інтернет';
+        window.setTimeout("fnHide("+secs+")",1000);
+    }  else { 
+      document.getElementById("waiting").innerHTML = '<a href="#" class="footer_button btn ">Інтернет</a>';
+    }
+}
+fnHide(15);
+
+</script>
+
+
+
+
+
+
+
+
+
+
+</body>
 </html>
