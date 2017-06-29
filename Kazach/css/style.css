@@ -74,7 +74,7 @@ img {
 
 #container {
     width: 100%;
-    max-width: 1440px;
+   /* max-width: 1440px; */
 }
 
 .header_top {
@@ -278,10 +278,16 @@ img {
     background: url("../img/main-1.png") no-repeat;  }
 
 .main_right_second {
-    background: url("../img/main-2.png") no-repeat;  }
+    background: url("../img/main-2.png") no-repeat;
+    position: relative;
+    top: 20;
+    }
 
 .main_right_trird {
-    background: url("../img/main-3.png") no-repeat;  }
+    background: url("../img/main-3.png") no-repeat;
+    position: relative;
+    top: 20;
+}
 
 .main_right_fourth {
     background: url("../img/main-4.png") no-repeat;
