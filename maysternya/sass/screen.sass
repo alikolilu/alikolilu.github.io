@@ -1,0 +1,23 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset"
+
+$color: red
+
+$fsize: 12px
+
+= br($br)
+  -webkit-border-radius: $br
+  border-radius: $br
+
+
+
+
+a
+  color: $color
+  font-size: ($fsize + 6) / 2
+  border: 1px solid $color
+  +br(5px)
