@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed4b8b9d-e1d9-4399-b5a6-e25d2cc08a8e" name="Default" comment="" />
+    <list default="true" id="41332890-d22e-4640-80a1-f6bfbe47993a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,48 +14,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="6345" column="6" lean-forward="false" selection-start-line="6345" selection-start-column="6" selection-end-line="6345" selection-end-column="6" />
+            <state relative-caret-position="2414">
+              <caret line="142" column="67" lean-forward="false" selection-start-line="142" selection-start-column="67" selection-end-line="142" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10543">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="759" column="58" lean-forward="false" selection-start-line="759" selection-start-column="58" selection-end-line="759" selection-end-column="58" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="139">
+              <caret line="6027" column="20" lean-forward="false" selection-start-line="6027" selection-start-column="20" selection-end-line="6027" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>оста</find>
+      <find>sli</find>
+      <find>bigg</find>
+      <find>form_header</find>
+      <find>направл</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
       </list>
     </option>
   </component>
@@ -74,6 +69,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
@@ -114,22 +110,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="главная" type="b2602c69:ProjectViewProjectNode" />
-              <item name="главная" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="главная" type="b2602c69:ProjectViewProjectNode" />
-              <item name="главная" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="главная" type="b2602c69:ProjectViewProjectNode" />
-              <item name="главная" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="главная" type="b2602c69:ProjectViewProjectNode" />
-              <item name="главная" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,9 +133,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Детский сайт/верстка2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value=".icons_block&#9;null&#9;null&#10;icons_block&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="text-header&#9;null&#9;null&#10;form_header&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,25 +157,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed4b8b9d-e1d9-4399-b5a6-e25d2cc08a8e" name="Default" comment="" />
-      <created>1502095523483</created>
+      <changelist id="41332890-d22e-4640-80a1-f6bfbe47993a" name="Default" comment="" />
+      <created>1502363323177</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502095523483</updated>
-      <workItem from="1502095527324" duration="5562000" />
-      <workItem from="1502103908436" duration="15988000" />
-      <workItem from="1502175342542" duration="2534000" />
+      <updated>1502363323177</updated>
+      <workItem from="1502363326227" duration="9818000" />
+      <workItem from="1502375403697" duration="269000" />
+      <workItem from="1502407331642" duration="3379000" />
+      <workItem from="1502434101507" duration="7403000" />
+      <workItem from="1502452942770" duration="4514000" />
+      <workItem from="1503918373276" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24084000" />
+    <option name="totallyTimeSpent" value="26208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -215,28 +208,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12614">
-          <caret line="742" column="41" lean-forward="false" selection-start-line="742" selection-start-column="41" selection-end-line="742" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="2414">
+          <caret line="142" column="67" lean-forward="false" selection-start-line="142" selection-start-column="67" selection-end-line="142" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108103">
-          <caret line="6359" column="28" lean-forward="false" selection-start-line="6359" selection-start-column="28" selection-end-line="6359" selection-end-column="28" />
+        <state relative-caret-position="102459">
+          <caret line="6027" column="20" lean-forward="true" selection-start-line="6027" selection-start-column="20" selection-end-line="6027" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -245,67 +226,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105604">
-          <caret line="6212" column="1" lean-forward="true" selection-start-line="6212" selection-start-column="1" selection-end-line="6212" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98311">
-          <caret line="5783" column="16" lean-forward="false" selection-start-line="5783" selection-start-column="16" selection-end-line="5783" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2645">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98311">
-          <caret line="5783" column="16" lean-forward="false" selection-start-line="5783" selection-start-column="16" selection-end-line="5783" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10543">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="6345" column="6" lean-forward="false" selection-start-line="6345" selection-start-column="6" selection-end-line="6345" selection-end-column="6" />
+        <state relative-caret-position="113458">
+          <caret line="6674" column="44" lean-forward="false" selection-start-line="6674" selection-start-column="44" selection-end-line="6674" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="759" column="58" lean-forward="false" selection-start-line="759" selection-start-column="58" selection-end-line="759" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111928">
+          <caret line="6584" column="1" lean-forward="true" selection-start-line="6584" selection-start-column="1" selection-end-line="6584" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12393">
+          <caret line="729" column="95" lean-forward="false" selection-start-line="729" selection-start-column="95" selection-end-line="729" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111452">
+          <caret line="6556" column="18" lean-forward="false" selection-start-line="6556" selection-start-column="18" selection-end-line="6556" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12393">
+          <caret line="729" column="95" lean-forward="false" selection-start-line="729" selection-start-column="95" selection-end-line="729" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111452">
+          <caret line="6556" column="18" lean-forward="false" selection-start-line="6556" selection-start-column="18" selection-end-line="6556" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106480">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="67" lean-forward="false" selection-start-line="142" selection-start-column="67" selection-end-line="142" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="6027" column="20" lean-forward="false" selection-start-line="6027" selection-start-column="20" selection-end-line="6027" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
