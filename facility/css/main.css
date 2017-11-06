@@ -1,4 +1,7 @@
 @import url(../../bower_components/normalize.css/normalize.css);
+/*
+* Custom
+*/
 .header_nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -82,7 +85,7 @@
   height: 720px;
   background-color: #000000;
   position: absolute;
-  top: 94px;
+  top: 86px;
   opacity: 0.2; }
   @media screen and (max-width: 1024px) {
     .slide_darker {
